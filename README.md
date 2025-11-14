@@ -24,13 +24,5 @@ Skilled in **Verilog, SystemVerilog, Perl, Tcl/Tk, Python**.
 - **Voice Activity Detection** – Energy & spectral-based VAD in MATLAB  
 
 ---
-
-## 🎓 Certifications
-- Digital Design for VLSI (Coursera)  
-- Microcontrollers & Industrial Applications (Coursera)  
-- Digital Systems Design using Verilog HDL (CNVD, VIT Chennai)
-
----
-
 ## 📫 Contact
 📧 **yokeshsgar@gmail.com**  
