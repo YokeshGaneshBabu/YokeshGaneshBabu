@@ -25,12 +25,6 @@ Skilled in **Verilog, SystemVerilog, Perl, Tcl/Tk, Python**.
 
 ---
 
-## 💼 Experience
-**Summer Intern @ vTitan Corporation Pvt Ltd (2025)**  
-Worked on FPGA-based modernization of legacy CPLD designs, debugging, and verification.
-
----
-
 ## 🎓 Certifications
 - Digital Design for VLSI (Coursera)  
 - Microcontrollers & Industrial Applications (Coursera)  
