@@ -40,5 +40,3 @@ Worked on FPGA-based modernization of legacy CPLD designs, debugging, and verifi
 
 ## 📫 Contact
 📧 **yokeshsgar@gmail.com**  
-🔗 **linkedin.com/in/yokesh-ganesh-babu**  
-🐙 **github.com/YokeshGaneshBabu**
