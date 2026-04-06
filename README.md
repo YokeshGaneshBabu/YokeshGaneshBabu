@@ -10,8 +10,7 @@ Skilled in **Verilog, SystemVerilog, Perl, Tcl/Tk, Python**.
 - **Hardware Design:** Verilog, SystemVerilog, Digital Logic, RISC-V  
 - **EDA & Modeling:** TCAD, FPGA flows, Simulation tools  
 - **Scripting:** Perl, Tcl/Tk, Python  
-- **Machine Learning:** Regression, Classification, Random Forest  
-- **Tools:** ModelSim, Vivado, LTSpice, MATLAB, Git  
+
 
 ---
 
