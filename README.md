@@ -48,13 +48,7 @@ Currently working on:
 
 </div>
 
----
 
-## 🔬 Featured Projects
-
-> Sorted by recency. Click on any project title to explore.
-
----
 
 ### 📡 LC-VCO with Adaptive Body Biasing & Switched Capacitor Bank
 `Jan 2026 – May 2026 (ongoing)` &nbsp;|&nbsp; `Cadence Virtuoso · Spectre · gpdk180 · 180nm CMOS`
@@ -144,26 +138,8 @@ FSM-based adaptive traffic controller with emergency vehicle override capability
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YokeshGaneshBabu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YokeshGaneshBabu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
----
-
-## 🎓 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| VLSI Physical Design Internship & Certification | Maven Silicon | 2025 |
-| Digital Systems Design using Verilog HDL | CNVD, VIT Chennai | 2024 |
-| Fundamentals of Digital Design for VLSI Chip Design | Coursera | — |
-
----
 
 ## 💼 Experience
 
