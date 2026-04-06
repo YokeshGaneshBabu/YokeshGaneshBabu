@@ -15,10 +15,10 @@
 
 ## 👋 About Me
 
-I'm a 3rd-year B.Tech ECE student at **VIT Chennai**, specializing in **VLSI Design and Technology** (CGPA: 8.66). I work across the analog-digital stack — from transistor-level analog IC design in Cadence Virtuoso to pipelined processor RTL in Verilog, with a focus on building things that are grounded in real silicon constraints.
+I'm a 3rd-year B.Tech Electronics Engineering student at **VIT Chennai**, specializing in **VLSI Design and Technology** . I work across the analog-digital stack — from transistor-level analog IC design in Cadence Virtuoso to pipelined processor RTL in Verilog, with a focus on building things that are grounded in real silicon constraints.
 
 Currently working on:
-- 🔬 **ZnO gas sensor research** with faculty — fabrication + characterization (publication in progress)
+- 🔬 **Gas sensor research** with faculty — fabrication + characterization 
 - 🔁 **LC-VCO with Switched Capacitor Bank** — extending a 2023 Micromachines paper in 180nm CMOS
 - ⚡ **Sobel Edge Detection** hardware architecture in Verilog targeting satellite image processing
 
