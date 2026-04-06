@@ -151,12 +151,13 @@ Worked on CPLD-to-FPGA migration for legacy digital designs — RTL porting, Viv
 
 ## 🔭 Currently Working On
 
-```
-[■■■■■■■░░░] LC-VCO Extended Design          — Cadence Virtuoso (ongoing)
-[■■■░░░░░░░] Sobel Edge Detection in Verilog  — targeting satellite image processing
-[■■■■■■░░░░] ZnO Gas Sensor Research          — fabrication + publication (with faculty)
-```
+<br/>
 
+**LC-VCO Extended Design** — Cadence Virtuoso
+![70%](https://progress-bar.xyz/70?title=ongoing&width=500&color=7c3aed)
+
+**Micromachined Gas Sensor with self heater** — fabrication + publication (with faculty)
+![30%](https://progress-bar.xyz/60?title=ongoing&width=500&color=7c3aed)
 ---
 
 <div align="center">
