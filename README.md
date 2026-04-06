@@ -156,7 +156,7 @@ Worked on CPLD-to-FPGA migration for legacy digital designs — RTL porting, Viv
 **LC-VCO Extended Design** — Cadence Virtuoso
 ![70%](https://progress-bar.xyz/70?title=ongoing&width=500&color=7c3aed)
 
-**Micromachined Gas Sensor with self heater** — fabrication + publication (with faculty)
+**Micromachined Gas Sensor with self heater** — fabrication + publication 
 ![30%](https://progress-bar.xyz/60?title=ongoing&width=500&color=7c3aed)
 ---
 
