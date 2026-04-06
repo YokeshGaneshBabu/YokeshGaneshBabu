@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yokesh%20Ganesh%20Babu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=VLSI%20Design%20%7C%20Analog%20IC%20%7C%20RTL%20%26%20Verification&descSize=18&descAlignY=58&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header" width="100%"/>
+
+<h1>Yokesh Ganesh Babu</h1>
+<p><b>VLSI Design &nbsp;·&nbsp; Analog IC &nbsp;·&nbsp; RTL & Verification</b></p>
+<p><i>3rd Year B.Tech EE (VLSI Design and Technology) · VIT Chennai ·</i></p>
 
 <br/>
 
