@@ -48,7 +48,7 @@ Currently working on:
 
 </div>
 
-
+```
 
 ### 📡 LC-VCO with Adaptive Body Biasing & Switched Capacitor Bank
 `Jan 2026 – May 2026 (ongoing)` &nbsp;|&nbsp; `Cadence Virtuoso · Spectre · gpdk180 · 180nm CMOS`
