@@ -157,7 +157,7 @@ Worked on CPLD-to-FPGA migration for legacy digital designs — RTL porting, Viv
 ![70%](https://progress-bar.xyz/70?title=ongoing&width=500&color=7c3aed)
 
 **Micromachined Gas Sensor with self heater** — fabrication + publication 
-![30%](https://progress-bar.xyz/60?title=ongoing&width=500&color=7c3aed)
+![30%](https://progress-bar.xyz/30?title=ongoing&width=500&color=7c3aed)
 ---
 
 <div align="center">
