@@ -4,7 +4,7 @@
 
 <h1>Yokesh Ganesh Babu</h1>
 <p><b>VLSI Design &nbsp;·&nbsp; Analog IC &nbsp;·&nbsp; RTL & Verification</b></p>
-<p><i>3rd Year B.Tech EE (VLSI Design and Technology) · VIT Chennai ·</i></p>
+<p><i>3rd Year B.Tech EE (VLSI Design and Technology) · VIT Chennai</i></p>
 
 <br/>
 
@@ -19,12 +19,11 @@
 
 ## 👋 About Me
 
-I'm a 3rd-year B.Tech Electronics Engineering student at **VIT Chennai**, specializing in **VLSI Design and Technology** . I work across the analog-digital stack — from transistor-level analog IC design in Cadence Virtuoso to pipelined processor RTL in Verilog, with a focus on building things that are grounded in real silicon constraints.
+I'm a 3rd-year B.Tech Electronics Engineering student at **VIT Chennai**, specializing in **VLSI Design and Technology**. I work across the analog-digital stack — from transistor-level analog IC design in Cadence Virtuoso to pipelined processor RTL in Verilog, with a focus on building things that are grounded in real silicon constraints.
 
 Currently working on:
-- 🔬 **Gas sensor research** with faculty — fabrication + characterization 
-- 🔁 **LC-VCO with Switched Capacitor Bank** — extending a 2023 Micromachines paper in 180nm CMOS
-- ⚡ **Sobel Edge Detection** hardware architecture in Verilog targeting satellite image processing
+- 🔬 **Gas sensor research** with faculty — fabrication + characterization
+- ⚡ **Low-Power Wake-Up Receiver (WuRx)** — envelope detector + comparator in Cadence Virtuoso, gpdk180
 
 ---
 
@@ -50,8 +49,10 @@ Currently working on:
 
 ---
 
+## 🚀 Projects
+
 ### 📡 LC-VCO with Adaptive Body Biasing & Switched Capacitor Bank
-`Jan 2026 – May 2026 (ongoing)` &nbsp;|&nbsp; `Cadence Virtuoso · Spectre · gpdk180 · 180nm CMOS`
+`Jan 2026 – May 2026` &nbsp;|&nbsp; `Cadence Virtuoso · Spectre · gpdk180 · 180nm CMOS`
 
 Replicated and extended a **2023 Micromachines publication** on a 0.6V LC-VCO with Adaptive Body Biasing (ABB) in 180nm CMOS. Extended the design with a **3-bit switched capacitor bank**, doubling the frequency coverage for Bluetooth frequency hopping applications.
 
@@ -66,7 +67,30 @@ Replicated and extended a **2023 Micromachines publication** on a 0.6V LC-VCO wi
 **Key contributions:**
 - Replaced fixed tank capacitor with 3-bit binary-weighted switched cap bank
 - Demonstrated faster frequency settling with ABB vs. constant body bias during band switching
-- Targeted **Bluetooth frequency hopping** with 8 discrete frequency bands
+- Targeted **Bluetooth frequency hopping** with 8 discrete discrete frequency bands
+
+---
+
+### 🔍 Kernel-Optimized Sobel Filter for Satellite Imagery
+`Feb 2026 – Apr 2026` &nbsp;|&nbsp; `Verilog · ModelSim · Python · PyTorch`
+
+Hardware-accelerated Sobel edge detection pipeline in Verilog, targeting real-time satellite image processing for disaster assessment. Implements three progressive architectures: a basic streaming filter, a fully registered 3-stage pipeline, and a parameterized filter with **ML-learned kernel weights**.
+
+```
+Architecture Progression:
+  Basic (1-cycle latency) ──► Pipelined (3-stage) ──► Learned-Kernel (quantized ML weights)
+                                      ↑
+                     PyTorch training → integer quantization → .vh parameter file
+```
+
+**Key contributions:**
+- Designed a streaming 3×3 window extractor with dual line buffers for row-by-row pixel input
+- Built a fully pipelined datapath: Stage 1 (Gx/Gy), Stage 2 (|Gx|+|Gy|), Stage 3 (output register)
+- Trained a PyTorch conv model on synthetic edge images to learn hardware-friendly quantized kernels
+- Generated `learned_kernel_params.vh` — directly loadable as Verilog parameters, closing the ML-to-RTL loop
+- ModelSim verified across all three architectures with custom testbenches
+
+**Applications:** Land cover classification, infrastructure extraction, disaster damage assessment, agricultural field boundary detection using Landsat-8 / Sentinel-2 imagery
 
 ---
 
@@ -100,7 +124,7 @@ Single-cycle RISC-V processor supporting **28 instructions** — the architectur
 
 ---
 
-### 🔍 Exploration Reduction in Lee's Maze Routing Algorithm
+### 🔭 Exploration Reduction in Lee's Maze Routing Algorithm
 `Jul 2025 – Nov 2025` &nbsp;|&nbsp; `Python · EDA Algorithms`
 
 Optimized the classical Lee routing algorithm used in PCB/IC layout tools.
@@ -138,26 +162,12 @@ FSM-based adaptive traffic controller with emergency vehicle override capability
 
 ---
 
-
-
-
 ## 💼 Experience
 
 **Summer Intern — vTitan Corporation Pvt Ltd** &nbsp;`May 2025 – Jun 2025`
 
 Worked on CPLD-to-FPGA migration for legacy digital designs — RTL porting, Vivado implementation, waveform-based debugging, and functional verification against design specs.
 
----
-
-## 🔭 Currently Working On
-
-<br/>
-
-#### LC-VCO Extended Design &nbsp;—&nbsp; Cadence Virtuoso
-![70%](https://progress-bar.xyz/70?title=70%25&width=500&color=6d28d9)
-
-#### Micromachined Gas Sensor with self heater &nbsp;—&nbsp; fabrication + publication
-![30%](https://progress-bar.xyz/30?title=30%25&width=500&color=6d28d9)
 ---
 
 <div align="center">
