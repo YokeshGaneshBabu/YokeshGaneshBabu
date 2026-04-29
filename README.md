@@ -21,10 +21,6 @@
 
 I'm a 3rd-year B.Tech Electronics Engineering student at **VIT Chennai**, specializing in **VLSI Design and Technology**. I work across the analog-digital stack — from transistor-level analog IC design in Cadence Virtuoso to pipelined processor RTL in Verilog, with a focus on building things that are grounded in real silicon constraints.
 
-Currently working on:
-- 🔬 **Gas sensor research** with faculty — fabrication + characterization
-- ⚡ **Low-Power Wake-Up Receiver (WuRx)** — envelope detector + comparator in Cadence Virtuoso, gpdk180
-
 ---
 
 ## 🛠️ Technical Stack
