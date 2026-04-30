@@ -68,7 +68,7 @@ Replicated and extended a **2023 Micromachines publication** on a 0.6V LC-VCO wi
 ---
 
 ### 🔍 Kernel-Optimized Sobel Filter for Satellite Imagery
-`Feb 2026 – Apr 2026` &nbsp;|&nbsp; `Verilog · ModelSim · Python · PyTorch`
+`Jan 2026 – Mar 2026` &nbsp;|&nbsp; `Verilog · ModelSim · Python · PyTorch`
 
 Hardware-accelerated Sobel edge detection pipeline in Verilog, targeting real-time satellite image processing for disaster assessment. Implements three progressive architectures: a basic streaming filter, a fully registered 3-stage pipeline, and a parameterized filter with **ML-learned kernel weights**.
 
