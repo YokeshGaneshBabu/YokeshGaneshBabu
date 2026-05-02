@@ -3,23 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header" width="100%"/>
 
 <h1>Yokesh Ganesh Babu</h1>
-<p><b>VLSI Design &nbsp;·&nbsp; Analog IC &nbsp;·&nbsp; RTL & Verification</b></p>
-<p><i>3rd Year B.Tech EE (VLSI Design and Technology) · VIT Chennai</i></p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yokesh--ganesh--babu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yokesh-ganesh-babu)
-[![GitHub](https://img.shields.io/badge/GitHub-YokeshGaneshBabu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YokeshGaneshBabu)
-[![Email](https://img.shields.io/badge/Email-yokeshsgar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yokeshsgar@gmail.com)
-[![Location](https://img.shields.io/badge/Chennai,%20India-📍-6366f1?style=for-the-badge)](.)
-
-</div>
 
 ---
-
-## 👋 About Me
-
-I'm a 3rd-year B.Tech Electronics Engineering student at **VIT Chennai**, specializing in **VLSI Design and Technology**. I work across the analog-digital stack — from transistor-level analog IC design in Cadence Virtuoso to pipelined processor RTL in Verilog, with a focus on building things that are grounded in real silicon constraints.
 
 ---
 
