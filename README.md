@@ -5,10 +5,6 @@
 <h1>Yokesh Ganesh Babu</h1>
 
 
----
-
----
-
 ## 🛠️ Technical Stack
 
 <div align="center">
