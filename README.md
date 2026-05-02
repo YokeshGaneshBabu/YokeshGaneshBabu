@@ -142,13 +142,6 @@ FSM-based adaptive traffic controller with emergency vehicle override capability
 
 ---
 
-## 💼 Experience
-
-**Summer Intern — vTitan Corporation Pvt Ltd** &nbsp;`May 2025 – Jun 2025`
-
-Worked on CPLD-to-FPGA migration for legacy digital designs — RTL porting, Vivado implementation, waveform-based debugging, and functional verification against design specs.
-
----
 
 <div align="center">
 
