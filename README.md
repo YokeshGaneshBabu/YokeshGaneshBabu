@@ -4,7 +4,7 @@
 
 <h1>Yokesh Ganesh Babu</h1>
 
-<p>Electronics Engineering (VLSI Design & Technology) · VIT Chennai · Batch of 2027</p>
+<p>Electronics Engineering (VLSI Design & Technology) · VIT Chennai</p>
 
 </div>
 
