@@ -296,7 +296,7 @@ Explorations in feature engineering, model comparison, image-based localization,
 ### `07` / TOOLCHAIN
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,c,,arduino&theme=dark" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,c,perl,tcl,arduino&theme=dark" alt="Skill icons"/>
 </p>
 
 <p align="center">
