@@ -54,9 +54,7 @@ endmodule
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=%24+currently+learning+--+UVM+%26+coverage+closure;%24+currently+building+--+ML+%E2%86%92+RTL+pipelines;%24+currently+exploring+--+FinFET+device+physics;%24+status+--+simulating+%E2%96%88" alt="Currently"/>
-</p>
+
 
 ### `01` / ENGINEERING DOMAINS
 
@@ -298,7 +296,7 @@ Explorations in feature engineering, model comparison, image-based localization,
 ### `07` / TOOLCHAIN
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,c,bash,linux,git,github,vscode,arduino&theme=dark" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,c,,arduino&theme=dark" alt="Skill icons"/>
 </p>
 
 <p align="center">
