@@ -1,7 +1,13 @@
 # Yokesh Ganesh Babu
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f0c29,50:302b63,100:24243e&text=YOKESH%20GANESH%20BABU&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=RTL%20DESIGN%20%7C%20DESIGN%20VERIFICATION%20%7C%20VLSI&descAlignY=59&descSize=13&animation=fadeIn" width="100%" alt="Yokesh Ganesh Babu profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080b16,35:171a38,70:303b70,100:00d9ff&text=YOKESH%20GANESH%20BABU&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=DESIGN%20VERIFICATION%20%2F%20RTL%20%2F%20AI%20%2F%20SILICON&descSize=13&descAlignY=57&animation=fadeIn" width="100%" alt="Animated dark blue and cyan engineering profile banner"/>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=650&lines=Designing+RTL.+Verifying+behavior.;Exploring+AI%2FML+for+hardware.;From+transistors+to+testbenches.;Building+at+the+hardware-software+boundary." alt="Animated engineering tagline"/>
+  </a>
 </p>
 
 <p align="center">
@@ -9,93 +15,164 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YokeshGaneshBabu">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/YokeshGaneshBabu?tab=repositories">Repositories</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/YokeshGaneshBabu/uart_controller_verification">Featured Verification Project</a>
+  <a href="https://github.com/YokeshGaneshBabu?tab=repositories">REPOSITORIES</a>
+  &nbsp; ◈ &nbsp;
+  <a href="https://github.com/YokeshGaneshBabu/uart_controller_verification">UART VERIFICATION</a>
+  &nbsp; ◈ &nbsp;
+  <a href="https://github.com/YokeshGaneshBabu/kernel-optimized-sobel-filter">SOBEL FILTER</a>
 </p>
 
 ---
 
-### `01` / Engineering Focus
+### `01` &nbsp; / &nbsp; THE ENGINEERING STACK
 
-I work at the intersection of **digital design, functional verification, and semiconductor device engineering**.
-
-My projects span RTL design, SystemVerilog assertions, UVM-based verification, analog circuit simulation, and hardware-oriented algorithm optimization.
-
-- **RTL & Verification:** Verilog, SystemVerilog, UVM, SVA, constrained-random testing, functional coverage
-- **Digital Systems:** FSMs, pipelining, hazard handling, FPGA-oriented design
-- **Analog & Devices:** Cadence Virtuoso, Spectre, Synopsys Sentaurus TCAD, Verilog-A
-- **Programming:** Python, C, Tcl, MATLAB, PyTorch
-- **Tools:** Aldec Riviera-PRO, ModelSim, Xilinx Vivado, LTspice
+```text
+01   DIGITAL DESIGN       RTL · FSMs · Pipelining · Microarchitecture
+02   VERIFICATION         SystemVerilog · UVM · SVA · Functional Coverage
+03   AI / ML              PyTorch · CNNs · Classical ML · Hardware-Aware ML
+04   ANALOG & DEVICES     Cadence Virtuoso · Spectre · Sentaurus TCAD
+05   PROGRAMMING          Python · C · Tcl · MATLAB · Verilog-A
+```
 
 ---
 
-### `02` / Selected Work
+### `02` &nbsp; / &nbsp; SELECTED BUILDS
 
-A selection of projects demonstrating different parts of my engineering workflow.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### 01. UART Controller · RTL + UVM Verification
+**01 / DESIGN VERIFICATION**
 
-**SystemVerilog · UVM 1.2 · SVA · Aldec Riviera-PRO**
+### UART Controller
 
-Designed UART transmitter and receiver RTL and developed a UVM verification environment with a driver, sequencer, monitor, scoreboard, and functional coverage.
+`SystemVerilog` `UVM 1.2` `SVA`
 
-- Configurable baud rates, parity modes, and LSB-first data transmission.
-- Constrained-random and directed testing, including corner cases and back-to-back frames.
-- SVA checks for unknown TX values, reset recovery, and frame-count coverage.
-- Reported 100% functional coverage for the directed test's defined coverage model.
+TX/RX RTL with a complete UVM verification environment.
 
-[**View repository →**](https://github.com/YokeshGaneshBabu/uart_controller_verification)
+- Driver, sequencer, monitor and scoreboard
+- Constrained-random and directed testing
+- Assertions and functional coverage
 
-#### 02. LC-VCO with Adaptive Body Biasing
+[Explore repository ↗](https://github.com/YokeshGaneshBabu/uart_controller_verification)
 
-**Cadence Virtuoso · Spectre · 180 nm CMOS**
+</td>
+<td width="50%" valign="top">
 
-Replicated a published low-voltage LC-VCO design and explored a switched-capacitor tuning extension.
+**02 / AI × HARDWARE**
 
-- Implemented a 3-bit capacitor bank for eight discrete tuning configurations.
-- Investigated frequency selection and adaptive body-bias behavior.
-- Evaluated oscillation frequency, tuning range, phase noise, and power.
+### Kernel-Optimized Sobel Filter
 
-#### 03. Kernel-Optimized Sobel Filter
+`Verilog` `PyTorch` `ModelSim`
 
-**Verilog · Python · PyTorch · ModelSim**
+A pipelined image-processing datapath with learned, quantized kernel exploration.
 
-Developed a hardware-oriented image-edge detection pipeline, exploring both conventional Sobel kernels and learned integer-valued kernels.
+- Streaming 3 × 3 window extraction
+- Pipelined gradient computation
+- ML-to-RTL parameter generation
 
-- Implemented streaming 3 × 3 window extraction and line buffering.
-- Built a pipelined gradient computation datapath.
-- Used PyTorch to train candidate kernels and export quantized parameters for Verilog.
-- Simulated the design across multiple architectural variants.
+[Explore repository ↗](https://github.com/YokeshGaneshBabu/kernel-optimized-sobel-filter)
 
-[**View repository →**](https://github.com/YokeshGaneshBabu/kernel-optimized-sobel-filter)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### 04. More Engineering Projects
+**03 / ANALOG IC DESIGN**
 
-My other work spans mixed-signal circuits, processor architecture, semiconductor device simulation, routing algorithms, and embedded systems.
+### Adaptive-Bias LC-VCO
 
-Rather than duplicate every project description here, I keep the complete collection in my repositories.
+`Cadence Virtuoso` `Spectre` `180 nm`
+
+Explored adaptive body biasing and a switched-capacitor bank for discrete frequency tuning.
+
+- LC oscillator design and simulation
+- Eight-band tuning architecture
+- Phase-noise and power evaluation
+
+</td>
+<td width="50%" valign="top">
+
+**04 / SEMICONDUCTOR DEVICES**
+
+### Back-Gated FinFET
+
+`Sentaurus TCAD` `Device Physics`
+
+Electrical characterization and back-gate bias analysis of a FinFET structure.
+
+- Transfer and output characteristics
+- Threshold voltage and subthreshold swing
+- BOX thickness and back-gate coupling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**05 / MIXED-SIGNAL DESIGN**
+
+### Wake-Up Receiver Front-End
+
+`Cadence Virtuoso` `Spectre` `Verilog-A`
+
+Low-power 2.4 GHz OOK wake-up receiver exploration.
+
+- Subthreshold envelope detection
+- Behavioral comparator modeling
+- Digital synchronization logic
+
+</td>
+<td width="50%" valign="top">
+
+**06 / DIGITAL MICROARCHITECTURE**
+
+### Pipelined MIPS Processor
+
+`Verilog` `ModelSim`
+
+A five-stage processor implementation with hazard handling.
+
+- Forwarding and hazard detection
+- Load-use stall and bubble insertion
+- Datapath and control verification
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/YokeshGaneshBabu?tab=repositories"><strong>EXPLORE ALL REPOSITORIES →</strong></a>
+  <a href="https://github.com/YokeshGaneshBabu?tab=repositories">
+    <strong>↗ EXPLORE THE FULL REPOSITORY COLLECTION</strong>
+  </a>
 </p>
 
 ---
 
-### `03` / Beyond the RTL
+### `03` &nbsp; / &nbsp; OTHER EXPERIMENTS
 
-Currently interested in:
+| Domain | Work |
+|:--|:--|
+| **AI / ML × EDA** | CNN deep features with classical ML for lithography hotspot detection |
+| **EDA Algorithms** | Exploration reduction in Lee's maze-routing algorithm |
+| **Device Simulation** | Varactor diode design and C–V characterization |
+| **Embedded Systems** | Adaptive traffic light controller with emergency override |
 
-- Functional verification methodologies and assertion-based verification
-- Microarchitecture, timing behavior, and robust digital design
-- Analog/mixed-signal circuits and semiconductor device physics
-- Bridging algorithm development with hardware implementation
+Some of my analog and device work is documented through simulation results, plots, and technical reports rather than public repositories. The profile is a curated selection, not a complete inventory.
+
+---
+
+### `04` &nbsp; / &nbsp; CURRENT INTERESTS
+
+`ASSERTION-BASED VERIFICATION` &nbsp; `RTL MICROARCHITECTURE`
+
+`AI-ASSISTED EDA` &nbsp; `ANALOG / MIXED-SIGNAL`
+
+`SEMICONDUCTOR DEVICE PHYSICS` &nbsp; `HARDWARE OPTIMIZATION`
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=85&section=footer" width="100%" alt="" />
-  <sub>Design at the boundary of physics and logic.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00d9ff,50:303b70,100:080b16" width="100%" alt="Dark blue and cyan footer"/>
+  <sub>PHYSICS → TRANSISTORS → LOGIC → SYSTEMS</sub>
 </p>
