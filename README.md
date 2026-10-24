@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/YokeshGaneshBabu?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-00e5ff?style=for-the-badge&labelColor=101a38" alt="Repositories"/></a>
-  <a href="https://github.com/YokeshGaneshBabu/uart_controller_verification"><img src="https://img.shields.io/badge/FEATURED-UART%20VERIFICATION-253b68?style=for-the-badge&labelColor=101a38" alt="UART verification"/></a>
 </p>
 
 <p align="center">
