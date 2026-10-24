@@ -1,22 +1,47 @@
-# Yokesh Ganesh Babu
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070b14,30:111b35,65:253b68,100:00e5ff&text=YOKESH%20GANESH%20BABU&fontColor=ffffff&fontSize=36&fontAlignY=36&desc=RTL%20DESIGN%20%E2%80%A2%20VERIFICATION%20%E2%80%A2%20AI%20%E2%80%A2%20SILICON&descSize=13&descAlignY=56&animation=fadeIn" width="100%" alt="Yokesh Ganesh Babu engineering profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:070b14,40:111b35,70:253b68,100:00e5ff&text=YOKESH%20GANESH%20BABU&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=RTL%20DESIGN%20%E2%80%A2%20VERIFICATION%20%E2%80%A2%20AI%20%E2%80%A2%20SILICON&descSize=14&descAlignY=62&animation=twinkling" width="100%" alt="Yokesh Ganesh Babu banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+RTL.+Checking+every+edge+case.;Exploring+AI%2FML+for+EDA.;From+transistor+physics+to+digital+systems.;Hardware+is+where+the+layers+meet." alt="Animated engineering tagline"/>
+  <img src="./assets/binary-banner.svg" width="85%" alt="Scrolling binary banner"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YokeshGaneshBabu?tab=repositories">PROJECTS</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+Building+RTL.+Checking+every+edge+case.;%3E+Exploring+AI%2FML+for+EDA.;%3E+From+transistor+physics+to+digital+systems.;%3E+Hardware+is+where+the+layers+meet.;%3E+01011001+01001111+01001011+%E2%86%92+YOK" alt="Typing tagline"/>
 </p>
 
 <p align="center">
-  Electronics Engineering · VLSI Design & Technology · VIT Chennai
+  <img src="https://komarev.com/ghpvc/?username=YokeshGaneshBabu&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/VIT-Chennai-253b68?style=for-the-badge&logo=googlescholar&logoColor=00e5ff" alt="VIT Chennai"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_VLSI_Internships-00e5ff?style=for-the-badge&labelColor=070b14" alt="Status"/>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/YokeshGaneshBabu?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-070b14?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=070b14" alt="Projects"/></a>
+</p>
+
+<p align="center"><sub>Electronics Engineering · VLSI Design &amp; Technology · VIT Chennai</sub></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+### `00` / WHOAMI
+
+```verilog
+module yokesh #(parameter PASSION = "VLSI") (
+    input  wire coffee,
+    input  wire curiosity,
+    output reg  [31:0] ideas
+);
+    always @(posedge curiosity) begin
+        if (coffee) ideas <= ideas + 1;   // never overflows
+        else        ideas <= ideas;       // latch... avoid at all costs
+    end
+
+    // Currently: RTL design | verification | ML for EDA
+endmodule
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ### `01` / ENGINEERING DOMAINS
 
@@ -189,7 +214,7 @@ Built a streaming edge-detection datapath with fixed and learned quantized kerne
 | **UART · UVM Implementation** | UVM components, transaction-level stimulus, scoreboard, coverage collection, directed and constrained-random tests |
 | **Lee's Maze Routing Optimization** | Dead-end pruning, bidirectional BFS, shortest-path reconstruction, bend minimization and algorithm benchmarking |
 
-<a href="https://github.com/YokeshGaneshBabu?tab=repositories">Browse RTL repositories ↗</a>
+<p align="center"><a href="https://github.com/YokeshGaneshBabu?tab=repositories">Browse RTL repositories ↗</a></p>
 
 ---
 
@@ -216,7 +241,7 @@ TCAD investigation of transfer/output characteristics, threshold-voltage shifts,
 
 </details>
 
-Some device and circuit projects are documented through simulation data, plots, schematics, and technical reports rather than public source-code repositories.
+<sub>Some device and circuit projects are documented through simulation data, plots, schematics, and technical reports rather than public source-code repositories.</sub>
 
 ---
 
@@ -258,27 +283,56 @@ Explorations in feature engineering, model comparison, image-based localization,
 ### `07` / TOOLCHAIN
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-RTL-19324d?style=flat-square" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-Verification-19324d?style=flat-square" alt="SystemVerilog"/>
-  <img src="https://img.shields.io/badge/SVA-Assertions-19324d?style=flat-square" alt="SVA"/>
-  <img src="https://img.shields.io/badge/UVM-1.2-19324d?style=flat-square" alt="UVM"/>
-  <img src="https://img.shields.io/badge/Python-ML-19324d?style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-19324d?style=flat-square" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Cadence-Virtuoso-19324d?style=flat-square" alt="Cadence Virtuoso"/>
-  <img src="https://img.shields.io/badge/Synopsys-Sentaurus-19324d?style=flat-square" alt="Sentaurus"/>
-  <img src="https://img.shields.io/badge/ModelSim-Simulation-19324d?style=flat-square" alt="ModelSim"/>
-  <img src="https://img.shields.io/badge/Riviera--PRO-UVM_Simulation-19324d?style=flat-square" alt="Riviera-PRO"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,c,bash,linux,git,github,vscode,arduino&theme=dark" alt="Skill icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-RTL-19324d?style=for-the-badge" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-Verification-19324d?style=for-the-badge" alt="SystemVerilog"/>
+  <img src="https://img.shields.io/badge/SVA-Assertions-19324d?style=for-the-badge" alt="SVA"/>
+  <img src="https://img.shields.io/badge/UVM-1.2-19324d?style=for-the-badge" alt="UVM"/>
+  <img src="https://img.shields.io/badge/Cadence-Virtuoso-19324d?style=for-the-badge" alt="Cadence Virtuoso"/>
+  <img src="https://img.shields.io/badge/Synopsys-Sentaurus-19324d?style=for-the-badge" alt="Sentaurus"/>
+  <img src="https://img.shields.io/badge/ModelSim-Simulation-19324d?style=for-the-badge" alt="ModelSim"/>
+  <img src="https://img.shields.io/badge/Riviera--PRO-UVM_Simulation-19324d?style=for-the-badge" alt="Riviera-PRO"/>
+</p>
+
+---
+
+### `08` / LIVE STATS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YokeshGaneshBabu&show_icons=true&hide_border=true&bg_color=070b14&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&ring_color=00e5ff" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YokeshGaneshBabu&layout=compact&hide_border=true&bg_color=070b14&title_color=00e5ff&text_color=c9d1d9" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YokeshGaneshBabu&theme=dark&hide_border=true&background=070b14&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YokeshGaneshBabu&bg_color=070b14&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true" alt="Contribution activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YokeshGaneshBabu&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YokeshGaneshBabu/YokeshGaneshBabu/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YokeshGaneshBabu/YokeshGaneshBabu/output/github-snake.svg" width="100%"/>
+  </picture>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/YokeshGaneshBabu?tab=repositories">
-    <strong>EXPLORE ALL REPOSITORIES ↗</strong>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES_↗-00e5ff?style=for-the-badge&logo=github&logoColor=070b14&labelColor=00e5ff" alt="Explore all repositories"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00e5ff,50:253b68,100:070b14" width="100%" alt="Animated profile footer"/>
-  <sub>TRANSISTORS → LOGIC → SYSTEMS</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,50:253b68,100:070b14&text=TRANSISTORS%20%E2%86%92%20LOGIC%20%E2%86%92%20SYSTEMS&fontColor=ffffff&fontSize=18&fontAlignY=70" width="100%" alt="Footer"/>
 </p>
