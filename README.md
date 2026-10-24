@@ -16,10 +16,6 @@
 
 <p align="center">
   <a href="https://github.com/YokeshGaneshBabu?tab=repositories">REPOSITORIES</a>
-  &nbsp; ◈ &nbsp;
-  <a href="https://github.com/YokeshGaneshBabu/uart_controller_verification">UART VERIFICATION</a>
-  &nbsp; ◈ &nbsp;
-  <a href="https://github.com/YokeshGaneshBabu/kernel-optimized-sobel-filter">SOBEL FILTER</a>
 </p>
 
 ---
