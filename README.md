@@ -3,17 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/binary-banner.svg" width="85%" alt="Scrolling binary banner"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+Building+RTL.+Checking+every+edge+case.;%3E+Exploring+AI%2FML+for+EDA.;%3E+From+transistor+physics+to+digital+systems.;%3E+Hardware+is+where+the+layers+meet.;%3E+01011001+01001111+01001011+%E2%86%92+YOK" alt="Typing tagline"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=500&color=253B68&center=true&vCenter=true&width=800&height=30&lines=01011001+01001111+01001011+01000101+01010011+01001000;01010010+01010100+01001100+00100000+01000100+01000101+01010011+01001001+01000111+01001110;01010110+01001100+01010011+01001001+00100000+01000100+01000101+01010011+01001001+01000111+01001110;01010011+01101001+01101100+01101001+01100011+01101111+01101110" alt="Binary stream"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YokeshGaneshBabu&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/badge/VIT-Chennai-253b68?style=for-the-badge&logo=googlescholar&logoColor=00e5ff" alt="VIT Chennai"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_VLSI_Internships-00e5ff?style=for-the-badge&labelColor=070b14" alt="Status"/>
 </p>
 
 <p align="center">
@@ -22,7 +19,7 @@
 
 <p align="center"><sub>Electronics Engineering · VLSI Design &amp; Technology</sub></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 ### `00` / WHOAMI
 
@@ -41,7 +38,11 @@ module yokesh #(parameter PASSION = "VLSI") (
 endmodule
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&height=30&lines=%24+currently+learning+--+UVM+%26+coverage+closure;%24+currently+building+--+ML+%E2%86%92+RTL+pipelines;%24+currently+exploring+--+FinFET+device+physics;%24+status+--+simulating+%E2%96%88" alt="Currently"/>
+</p>
 
 ### `01` / ENGINEERING DOMAINS
 
@@ -88,7 +89,7 @@ Processor microarchitecture, pipelining, FIFO design, peripheral protocols, and 
 </tr>
 </table>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 ### `02` / FEATURED PROJECTS
 
@@ -203,7 +204,7 @@ Built a streaming edge-detection datapath with fixed and learned quantized kerne
 </tr>
 </table>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 ### `03` / RTL & MICROARCHITECTURE
 
@@ -216,7 +217,7 @@ Built a streaming edge-detection datapath with fixed and learned quantized kerne
 
 <p align="center"><a href="https://github.com/YokeshGaneshBabu?tab=repositories">Browse RTL repositories ↗</a></p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 ### `04` / ANALOG, DEVICES & MIXED-SIGNAL
 
@@ -243,7 +244,7 @@ TCAD investigation of transfer/output characteristics, threshold-voltage shifts,
 
 <sub>Some device and circuit projects are documented through simulation data, plots, schematics, and technical reports rather than public source-code repositories.</sub>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 ### `05` / EMBEDDED SYSTEMS
 
@@ -260,7 +261,7 @@ A scheduled medicine-dispensing prototype with two compartments for pre-meal and
 
 *Repository in preparation.*
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 ### `06` / SEMICONDUCTOR DATA & AI
 
@@ -278,7 +279,7 @@ Explorations in feature engineering, model comparison, image-based localization,
 
 </details>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 ### `07` / TOOLCHAIN
 
@@ -297,35 +298,7 @@ Explorations in feature engineering, model comparison, image-based localization,
   <img src="https://img.shields.io/badge/Riviera--PRO-UVM_Simulation-19324d?style=for-the-badge" alt="Riviera-PRO"/>
 </p>
 
----
-
-### `08` / LIVE STATS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YokeshGaneshBabu&show_icons=true&hide_border=true&bg_color=070b14&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&ring_color=00e5ff" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YokeshGaneshBabu&layout=compact&hide_border=true&bg_color=070b14&title_color=00e5ff&text_color=c9d1d9" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YokeshGaneshBabu&theme=dark&hide_border=true&background=070b14&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YokeshGaneshBabu&bg_color=070b14&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YokeshGaneshBabu&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YokeshGaneshBabu/YokeshGaneshBabu/output/github-snake-dark.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YokeshGaneshBabu/YokeshGaneshBabu/output/github-snake.svg" width="100%"/>
-  </picture>
-</p>
-
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
 <p align="center">
   <a href="https://github.com/YokeshGaneshBabu?tab=repositories">
