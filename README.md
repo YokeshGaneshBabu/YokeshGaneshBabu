@@ -1,23 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:070b14,40:111b35,70:253b68,100:00e5ff&text=YOKESH%20GANESH%20BABU&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=RTL%20DESIGN%20%E2%80%A2%20VERIFICATION%20%E2%80%A2%20AI%20%E2%80%A2%20SILICON&descSize=14&descAlignY=62&animation=twinkling" width="100%" alt="Yokesh Ganesh Babu banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:070b14,40:111b35,70:253b68,100:00e5ff&animation=twinkling" width="100%" alt="Yokesh Ganesh Babu banner"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1300&pause=1800&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Y0K3SH+G4N3SH+B4BU;YOK%E2%96%93SH+GA%E2%96%88ESH+BA%E2%96%92U;Y%E2%96%92KESH+G%40NESH+B%23BU;YOKESH+GANESH+BABU;YOKESH+GANESH+BABU;YOKESH+GANESH+BABU;Y0K3SH+G4N3SH+B4BU;Y%C3%98K%CE%9ESH+G%CE%9BN%CE%9ESH+B%CE%9BBU" alt="Yokesh Ganesh Babu"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:070b14,50:00e5ff,100:070b14&animation=blinking" width="60%" alt=""/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=%3E+Building+RTL.+Checking+every+edge+case.;%3E+Exploring+AI%2FML+for+EDA.;%3E+From+transistor+physics+to+digital+systems.;%3E+Hardware+is+where+the+layers+meet.;%3E+01011001+01001111+01001011+%E2%86%92+YOK" alt="Typing tagline"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=500&color=253B68&center=true&vCenter=true&width=800&height=30&lines=01011001+01001111+01001011+01000101+01010011+01001000;01010010+01010100+01001100+00100000+01000100+01000101+01010011+01001001+01000111+01001110;01010110+01001100+01010011+01001001+00100000+01000100+01000101+01010011+01001001+01000111+01001110;01010011+01101001+01101100+01101001+01100011+01101111+01101110" alt="Binary stream"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=500&color=3A5A9A&center=true&vCenter=true&width=800&height=30&lines=01011001+01001111+01001011+01000101+01010011+01001000;01010010+01010100+01001100+00100000+01000100+01000101+01010011+01001001+01000111+01001110;01010110+01001100+01010011+01001001+00100000+01000100+01000101+01010011+01001001+01000111+01001110;01010011+01101001+01101100+01101001+01100011+01101111+01101110" alt="Binary stream"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VIT-Chennai-253b68?style=for-the-badge&logo=googlescholar&logoColor=00e5ff" alt="VIT Chennai"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2200&pause=1500&color=00E5FF&width=620&height=140&multiline=true&repeat=true&center=false&vCenter=false&color=00E5FF&lines=%3E+booting+yokesh.sys+........+%5B+OK+%5D;%3E+loading+rtl_modules+.......+%5B+OK+%5D;%3E+loading+verification_env+..+%5B+OK+%5D;%3E+mounting+ml_for_eda+........+%5B+OK+%5D;%3E+all+systems+nominal++%E2%96%88" alt="Boot sequence"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=300&color=3A5A9A&center=true&vCenter=true&width=700&height=30&lines=_%7C%E2%80%BE%7C_%7C%E2%80%BE%7C_%7C%E2%80%BE%E2%80%BE%7C__%7C%E2%80%BE%7C_%7C%E2%80%BE%7C_%7C%E2%80%BE%E2%80%BE%7C_%7C%E2%80%BE%7C__;%7C%E2%80%BE%7C_%7C%E2%80%BE%E2%80%BE%7C_%7C%E2%80%BE%7C_%7C%E2%80%BE%7C__%7C%E2%80%BE%7C_%7C%E2%80%BE%E2%80%BE%7C_%7C%E2%80%BE%7C_%7C%E2%80%BE%7C_;%E2%80%BE%7C__%7C%E2%80%BE%7C_%7C%E2%80%BE%E2%80%BE%7C_%7C%E2%80%BE%7C_%7C__%7C%E2%80%BE%7C_%7C%E2%80%BE%7C_%7C%E2%80%BE%E2%80%BE%7C__%7C%E2%80%BE" alt="Clock waveform"/>
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/YokeshGaneshBabu?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-070b14?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=070b14" alt="Projects"/></a>
 </p>
 
-<p align="center"><sub>Electronics Engineering · VLSI Design &amp; Technology</sub></p>
+<p align="center"><sub>Electronics Engineering · VLSI Design &amp; Technology </sub></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&color=0:00e5ff,50:253b68,100:070b14&animation=fadeIn&reversal=false&fontSize=0" width="100%" alt=""/></p>
 
@@ -307,5 +321,5 @@ Explorations in feature engineering, model comparison, image-based localization,
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,50:253b68,100:070b14&text=TRANSISTORS%20%E2%86%92%20LOGIC%20%E2%86%92%20SYSTEMS&fontColor=ffffff&fontSize=18&fontAlignY=70" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:00e5ff,50:253b68,100:070b14&text=TRANSISTORS%20%E2%86%92%20LOGIC%20%E2%86%92%20SYSTEMS&fontColor=ffffff&fontSize=18&fontAlignY=70" width="100%" alt="Footer"/>
 </p>
