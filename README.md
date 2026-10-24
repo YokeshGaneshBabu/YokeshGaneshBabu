@@ -20,7 +20,7 @@
   <a href="https://github.com/YokeshGaneshBabu?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-070b14?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=070b14" alt="Projects"/></a>
 </p>
 
-<p align="center"><sub>Electronics Engineering · VLSI Design &amp; Technology · VIT Chennai</sub></p>
+<p align="center"><sub>Electronics Engineering · VLSI Design &amp; Technology </sub></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
